@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-rubah 1
+rubah 2
